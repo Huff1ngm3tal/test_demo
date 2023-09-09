@@ -11,7 +11,13 @@
   <body>
     <h1>Welcome to Riri's clutter!</h1>
 
-    <p>Check out Melon King --> <a href="https://melonking.net/">Melonking.net</a></p>
+<style>
+    body {
+        color: purple;
+        background-image: url('https://sadhost.neocities.org/images/tiles/bubbles1.gif');
+    }
+    </style>
+    <p>Check out Melon King:O --> <a href="https://melonking.net/">Melonking.net</a></p>
 
     <img src="http://www.enchantingcastle.com/gifs%20&%20pixel%20art/varie/128.gif">
 
